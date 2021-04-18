@@ -1,0 +1,16 @@
+div {
+  border: 1px solid black;
+  height: auto;
+  width: auto;
+}
+
+.canvas {
+  display: grid;
+  border: none;
+  height: 960px;
+  width: 960px;
+}
+
+.filled {
+  background-color: black;
+}
